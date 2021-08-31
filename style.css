@@ -1,0 +1,6 @@
+body{width:400px; margin:0 auto; background:#F8F4B6;}
+label{display: block; float: left; width: 300px;
+  padding: 5px 10px; margin: 18px 0 0; text-align: right;
+  font-family:Georgia, "Times New Roman", Times, serif; font-style:italic; font-weight:bold;}
+#submit{float:right; margin:5px 50px 10px 0;}
+input{text-align:center;}
